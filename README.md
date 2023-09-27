@@ -1,0 +1,1 @@
+Very basic selfpromo app using kotlin for beginners who are new to andriod 
